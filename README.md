@@ -1,7 +1,6 @@
 - 👋 Hi, I’m airamuzammal
 - 👀 I’m interested in data science in python
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me via email airamuzammal2511@gmail.com 
 
 <!---
